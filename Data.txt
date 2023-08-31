@@ -1,1 +1,2 @@
 ##data1
+Data is information that we gather or store.
