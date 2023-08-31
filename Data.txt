@@ -1,2 +1,4 @@
-##data1
+##Data1
 Data is information that we gather or store.
+It can be numbers, words, images.
+It's like pieces of a puzzle that we use to understand and make decisions about the world around us.
